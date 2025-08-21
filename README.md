@@ -11,8 +11,7 @@
 ---
 
 ## 🎯 About Me
-I hold graduate certificates in **Business Analysis** and **Cybersecurity**, with hands-on experience in IT support, helpdesk operations, and governance, risk & compliance (GRC).  
-I enjoy bridging business needs with secure IT solutions, while also documenting and presenting work in a clear, professional way.
+Graduate certificates in **Business Analysis** and **Cybersecurity**. Hands‑on with IT support/helpdesk, security reviews, and policy frameworks. I like bridging **business needs** with **secure, practical IT solutions**—and documenting them clearly.
 
 ---
 
@@ -20,48 +19,34 @@ I enjoy bridging business needs with secure IT solutions, while also documenting
 
 | Area | Description | Jump |
 |---|---|---|
-| **Business Analysis** | Business cases, requirements, stakeholder analysis, testing docs, database design | 👉 [View BA Work](business-analyst/README.md) |
-| **IT & Cybersecurity** | Labs, security reviews, incident response, IT support exercises | 👉 [View Cyber Work](cybersecurity/README.md) |
+| **Business Analysis** | Business cases, requirements, testing docs, analytics, database design | 👉 [View BA Work](business-analyst/README.md) |
+| **IT & Cybersecurity** | Labs, security reviews, incident response, helpdesk, cloud/network | 👉 [View Cyber Work](cybersecurity/README.md) |
 
 ---
 
 ## 📌 Featured Highlights
 
 ### 🔹 Business Analysis
-- **Mohawk CE Application Business Case**  
-  Developed a full business case with process diagrams and test plan to modernize Continuing Education application workflows.  
-  [See more →](business-analyst/projects/mohawk-ce-business-case/README.md)
-
-- **Library Wi-Fi Requirements Package**  
-  Delivered a requirements package with use cases, activity diagrams, and data flow diagrams for a Wi-Fi service upgrade.  
-  [See more →](business-analyst/projects/library-wifi-requirements/README.md)
-
-- **FlyFast vs CheapSeats Customer Satisfaction**  
-  Analytical report comparing satisfaction trends across demographics and travel types, with KPI tracking.  
-  [See more →](business-analyst/projects/flyfast-csat-report/README.md)
-
----
+- **Mohawk CE Application – Business Case & Test Plan** → Streamlined CE application process with stakeholder map, risks, alternatives, and an implementation test plan.  
+- **Library Wi‑Fi Requirements Package** → Use cases, activity/data‑flow diagrams, and non‑functional requirements for Wi‑Fi service quality.  
+- **FlyFast vs CheapSeats – Customer Satisfaction** → Data‑driven recommendations with KPI tracking and segmentation insights.  
 
 ### 🔹 IT & Cybersecurity
-- **osTicket Help Desk (Lab)**  
-  Installed and configured osTicket; explored SLAs, roles, and ticket lifecycle management.  
-  [See more →](cybersecurity/labs/osticket-helpdesk/README.md)
-
-- **Azure NSG & Traffic Inspection (Lab)**  
-  Configured NSGs between VMs to test segmentation, inbound/outbound rules, and monitoring.  
-  [See more →](cybersecurity/labs/azure-nsg-traffic/README.md)
-
-- **SetMedix Audit & Security Review**  
-  Comprehensive IT audit report using COBIT, CIS controls, and PIPEDA compliance.  
-  [See more →](cybersecurity/projects/setmedix-audit-security-review/README.md)
-
-- **TechInnovate Cybersecurity Framework**  
-  Group project: delivered a full policy framework aligned to NIST/ISO for a growing tech firm.  
-  [See more →](cybersecurity/projects/techinnovate-policy-framework/README.md)
+- **osTicket Help Desk (Lab)** → Built a helpdesk, configured SLAs/roles, and documented ticket lifecycle.  
+- **Azure NSG & Traffic (Lab)** → Segmentation and rule validation between VMs; inbound/outbound testing and monitoring.  
+- **SetMedix Audit & Security Review** → COBIT/CIS controls with Canadian privacy compliance; remediation roadmap.  
+- **TechInnovate Cybersecurity Framework** → Policy framework aligned to NIST/ISO; roles, processes, and metrics.
 
 ---
 
 ## 🛠️ Skills Snapshot
+**Business Analysis:** Process mapping (BPMN/Lucidchart), Requirements (BRD/FRD, user stories), Stakeholder analysis/RACI, Traceability matrices, Test planning/UAT, SQL basics, Analytics (Excel/Sheets).  
+**IT & Security:** Windows Server/AD, Azure (NSG, RBAC, Defender), osTicket, VPN, logging/SIEM basics, certificates/signatures, hashing & crypto labs, Wi‑Fi/network setup, risk & policy.
 
-**Business Analysis:**  
-Process mapping (BPMN, Lucidchart), Requirements (BRD/FRD, user stories), Stakeholder analysis, Traceability matrices, Test planning, SQL basics, Data visualization (Excel/Sheets,
+---
+
+## 📫 Contact
+- **Email:** [setonjiamosu@gmail.com](mailto:setonjiamosu@gmail.com)
+- **LinkedIn:** [linkedin.com/in/soa47](https://www.linkedin.com/in/soa47/)
+
+<p align="center"><i>Thanks for visiting!</i></p>
